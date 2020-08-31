@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Твои Новости Гомель</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Твои Новости</string>
+    <string name="nav_header_subtitle">ГОМЕЛЬ</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Свежие новости</string>
+    <string name="menu_gallery">Культура</string>
+    <string name="menu_slideshow">Политика</string>
+
+    <string name="check_connection_text">Интернет соединение отсутствует</string>
+
+    <string name="website_domain">www.gomel.news</string>
+    <string name="website_url">https://gomel.news</string>
+    <string name="cultura">https://gomel.news/culture/</string>
+    <string name="politics">https://gomel.news/politics/</string>
+
+
+
+</resources>
